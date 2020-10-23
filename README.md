@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Image.png" alt="Sublime's custom image"/>
+  <img src="Images/Image.png" alt="Hyper local AQ prediction"/>
 </p>
 
 
