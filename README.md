@@ -8,7 +8,7 @@
 
 
 
-This is the repository for my Capstone Project 1 for the Springboard Data Science Program. The project is titled "**Air Quality Prediction in East Bay Area, CA - Building a Machine Learning Model for Air Quality Predictions**". The goal of this project is to build machine learning models to predict air quality per city-block in the City of Oakland and San Leandro based on previously measured pollutant concentrations, local meteorological conditions, and local sources of emissions such as industries, traffic intersection data, and automobile traffic on highways without having to rely on complex physical modeling.
+The goal of this project is to build machine learning models to predict air quality per city-block in the City of Oakland and San Leandro based on previously measured pollutant concentrations, local meteorological conditions, and local sources of emissions such as industries, traffic intersection data, and automobile traffic on highways without having to rely on complex physical modeling.
 
 The following files and folders are included in this repository: 
 
