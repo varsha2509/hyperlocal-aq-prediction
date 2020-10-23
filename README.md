@@ -8,7 +8,7 @@
 
 
 
-The goal of this project is to build machine learning models to predict air quality per city-block in the City of Oakland and San Leandro based on previously measured pollutant concentrations, local meteorological conditions, and local sources of emissions such as industries, traffic intersection data, and automobile traffic on highways without having to rely on complex physical modeling.
+The goal of this project is to build machine learning models to predict air quality per city-block in the City of Oakland and San Leandro based on previously measured pollutant concentrations, local meteorological conditions, and local sources of emissions such as industries, traffic intersection data, and automobile traffic on highways without having to rely on complex physical modeling. A blog post on this work is available [here](https://medium.com/@varsha.gopalakrishnan/predicting-air-quality-in-east-bay-area-california-d5afde843edf)!
 
 The following files and folders are included in this repository: 
 
