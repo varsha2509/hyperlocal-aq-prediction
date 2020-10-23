@@ -13,16 +13,16 @@ The goal of this project is to build machine learning models to predict air qual
 The following files and folders are included in this repository: 
 
 **Final Report and Slides:**
-1) [Final Report](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Capstone1-Final-Report.pdf)
-2) [Slide Deck](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Capstone1%20Slide-Deck.pdf)
+1) [Final Report](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Final-Report.pdf)
+2) [Slide Deck](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Slide-Deck.pdf)
 
 **Progress Reports:** 
-1) [Project Proposal](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Capstone1-Proposal.pdf)
-2) [Data Wrangling](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Capstone1-Data-Wrangling.pdf)
-3) [Data Story](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Capstone1-DataStory.pdf)
-4) [Statistical Data Analysis](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Capstone1-Statistical-Data-Analysis.pdf)
-5) [Milestone Report](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Capstone1-Milestone-Report.pdf)
-6) [Machine Learning Report](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Capstone1-In%20Depth-Report.pdf)
+1) [Project Proposal](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Proposal.pdf)
+2) [Data Wrangling](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Data-Wrangling.pdf)
+3) [Data Story](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Data-Story.pdf)
+4) [Statistical Data Analysis](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Statistical-Data-Analysis.pdf)
+5) [Milestone Report](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Milestone-Report.pdf)
+6) [Machine Learning Report](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Docs/Machine-Learning-Report.pdf)
 
 **Jupyter Notebooks:**
 1) [Data Cleaning - National Emissions Inventory Data](https://github.com/varsha2509/hyperlocal-aq-prediction/blob/master/Notebooks/Data-Cleaning-NEI-Data.ipynb)
